@@ -89,9 +89,9 @@ It focuses on analyzing HR data from Salifort Motors to identify patterns and bu
 
 ## Author
 
-**Alireza Saberi**  
+**Azadeh Hamidzad**  
 *Google Advanced Data Analytics Certified*  
-*Aspiring Data Analyst | Electrical Engineer | Problem Solver*
+*Data Analytics | Strategic Planning | Problem Solver*
 
 ---
 
